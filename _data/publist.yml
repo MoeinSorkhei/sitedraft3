@@ -1,0 +1,213 @@
+- title: "What Makes Transfer Learning Work For Medical Images: Feature Reuse & Other Factors"
+  id: "matsoukas2022makes"
+  authors: "Christos Matsoukas, Johan Fredin Haslum, Moein Sorkhei, Magnus Soderberg, Kevin Smith"
+  url: "https://arxiv.org/abs/2203.01825"
+  venue: "Computer Vision and Pattern Recognition (CVPR 2022)"
+#  code: ""
+
+- title: "Is it Time to Replace CNNs with Transformers for Medical Images?"
+  id: "matsoukas2021time"
+  authors: "Christos Matsoukas, Johan Fredin Haslum, Magnus Söderberg, Kevin Smith"
+  url: "https://arxiv.org/abs/2108.09038"
+  venue: "ICCV 2021 Workshop on Computer Vision for Automated Medical Diagnosis (CVAMD)"
+  code: "https://github.com/ChrisMats/medical_transformers"
+    #  image: "saliency_maps.png"
+    #  imgwidth: "18%"
+    #  description: "Convolutional Neural Networks (CNNs) have reigned for a decade as the de facto approach to automated medical image diagnosis. Recently, vision transformers (ViTs) have appeared as a competitive alternative to CNNs, yielding similar levels of performance while possessing several interesting properties that could prove beneficial for medical imaging tasks. In this work, we explore whether it is time to move to transformer-based models or if we should keep working with CNNs - can we trivially switch to transformers? If so, what are the advantages and drawbacks of switching to ViTs for medical image diagnosis? We consider these questions in a series of experiments on three mainstream medical image datasets. Our findings show that, while CNNs perform better when trained from scratch, off-the-shelf vision transformers using default hyperparameters are on par with CNNs when pretrained on ImageNet, and outperform their CNN counterparts when pretrained using self-supervision."
+    #  citation: "https://scholar.googleusercontent.com/scholar.bib?q=info:Uf666rPD3QQJ:scholar.google.com/&output=citation&scisdr=CgUDm8UtEImstvrqL-c:AAGBfm0AAAAAYmvsN-c_2cIXoD36LIn1hz8wxFuX2rYz&scisig=AAGBfm0AAAAAYmvsNzaLI1fhXR3r3fNZkvL4OP3pCaAM&scisf=4&ct=citation&cd=0&hl=en"
+
+
+- title: "CSAW-M: An Ordinal Classification Dataset for Benchmarking Mammographic Masking of Cancer"
+  id: "sorkhei2021csaw"
+  authors: "Moein Sorkhei* , Yue Liu*, Hossein Azizpour, Edward Azavedo, Karin Dembrower, Dimitra Ntoula, Athanasios Zouzos, Fredrik Strand, Kevin Smith"
+  url: "https://openreview.net/forum?id=nlJ1rV6G_Iq"
+  venue:  "Neural Information Processing Systems (NeurIPS 2021) Track on Datasets and Benchmarks"
+  code: "https://github.com/yueliukth/CSAW-M"
+  #  link:
+  #  image: "masking_levels.png"
+  #  imgwidth: "50%"
+  #  description: "Interval and large invasive breast cancers, which are associated with worse prog- nosis than other cancers, are usually detected at a late stage due to false negative assessments of screening mammograms. The missed screening-time detection is commonly caused by the tumor being obscured by its surrounding breast tissues, a phenomenon called masking. To study and benchmark mammographic masking of cancer, in this work we introduce CSAW-M, the largest public mammographic dataset, collected from over 10,000 individuals and annotated with potential mask- ing. In contrast to the previous approaches which measure breast image density as a proxy, our dataset directly provides annotations of masking potential assess- ments from five specialists. We also trained deep learning models on CSAW-M to estimate the masking level and showed that the estimated masking is significantly more predictive of screening participants diagnosed with interval and large invasive cancers – without being explicitly trained for these tasks – than its breast density counterparts."
+  #  highlight: 0
+  #  news1: ""
+  #  news2: ""
+
+
+- title: "Toward robust mammography-based models for breast cancer risk"
+  id: "yala2021toward"
+  authors: "Adam Yala, Peter G Mikhael, Fredrik Strand, Gigin Lin, Kevin Smith, Yung-Liang Wan, Leslie Lamb, Kevin Hughes, Constance Lehman, Regina Barzilay"
+  url: "https://www.notion.so/Toward-robust-mammography-based-models-for-breast-cancer-risk-effb9b5e753241bc83208e1588e6f582#7d3a3b8e007b4358b969b6078799a2a9"
+  venue: "Science Translational Medicine 2021"
+  code: "https://www.learningtocure.csail.mit.edu/"
+  #  image: "toward_robust.png"
+  #  imgwidth: "15%"
+  #  description: "Improved breast cancer risk models enable targeted screening strategies that achieve earlier detection and less screening harm than existing guidelines. To bring deep learning risk models to clinical practice, we need to further refine their accuracy, validate them across diverse populations, and demonstrate their potential to improve clinical workflows. We developed Mirai, a mammography-based deep learning model designed to predict risk at multiple timepoints, leverage potentially missing risk factor information, and produce predictions that are consistent across mammography machines. Mirai was trained on a large dataset from Massachusetts General Hospital (MGH) in the United States and tested on held-out test sets from MGH, Karolinska University Hospital in Sweden, and Chang Gung Memorial Hospital (CGMH) in Taiwan, obtaining C-indices of 0.76 (95% confidence interval, 0.74 to 0.80), 0.81 (0.79 to 0.82), and 0.79 (0.79 to 0.83), respectively. Mirai obtained significantly higher 5-year ROC AUCs than the Tyrer-Cuzick model (P < 0.001) and prior deep learning models Hybrid DL (P < 0.001) and Image-Only DL (P < 0.001), trained on the same dataset. Mirai more accurately identified high-risk patients than prior methods across all datasets. On the MGH test set, 41.5% (34.4 to 48.5) of patients who would develop cancer within 5 years were identified as high risk, compared with 36.1% (29.1 to 42.9) by Hybrid DL (P = 0.02) and 22.9% (15.9 to 29.6) by the Tyrer-Cuzick model (P < 0.001)."
+  #  highlight: 0
+  #  news1: ""
+  #  news2: ""
+
+
+- title: "Ultrasound image analysis using deep neural networks for discriminating between benign and malignant ovarian tumors: comparison with expert subjective assessment"
+  id: "christiansen2021ultrasound"
+  authors: "F. Christiansen, E. L. Epstein, E. Smedberg, M. Åkerlund, K. Smith, E. Epstein"
+  url: "https://www.notion.so/Ultrasound-image-analysis-using-deep-neural-networks-for-discriminating-between-benign-and-malignant-612557cb5c914609be43af12049fe4d8#27edf797eaea46a08789b6ea4fb556e5"
+  venue: "Ultrasound in Obstetrics and Gynecology 2021"
+#  code: ""  # could not find anything
+  #  image: "ultrasound.png"
+  #  imgwidth: "40%"
+  #  description: "The objective of this project was to develop and test the performance of computerized ultrasound image analysis using deep neural networks (DNNs) in discriminating between benign and malignant ovarian tumors and to compare its diagnostic accuracy with that of subjective assessment (SA) by an ultrasound expert. We included 3077 (grayscale, n = 1927; power Doppler, n = 1150) ultrasound images from 758 women with ovarian tumors, who were classified prospectively by expert ultrasound examiners according to IOTA (International Ovarian Tumor Analysis) terms and definitions. Histological outcome from surgery (n = 634) or long-term (≥ 3 years) follow-up (n = 124) served as the gold standard. The dataset was split into a training set (n = 508; 314 benign and 194 malignant), a validation set (n = 100; 60 benign and 40 malignant) and a test set (n = 150; 75 benign and 75 malignant). We used transfer learning on three pre-trained DNNs: VGG16, ResNet50 and MobileNet. Each model was trained, and the outputs calibrated, using temperature scaling. An ensemble of the three models was then used to estimate the probability of malignancy based on all images from a given case. The DNN ensemble classified the tumors as benign or malignant (Ovry-Dx1 model); or as benign, inconclusive or malignant (Ovry-Dx2 model). The diagnostic performance of the DNN models, in terms of sensitivity and specificity, was compared to that of SA for classifying ovarian tumors in the test set. At a sensitivity of 96.0%, Ovry-Dx1 had a specificity similar to that of SA (86.7% vs 88.0%; P = 1.0). Ovry-Dx2 had a sensitivity of 97.1% and a specificity of 93.7%, when designating 12.7% of the lesions as inconclusive. By complimenting Ovry-Dx2 with SA in inconclusive cases, the overall sensitivity (96.0%) and specificity (89.3%) were not significantly different from using SA in all cases (P = 1.0)."
+  #  highlight: 0
+  #  news1: ""
+  #  news2: ""
+
+- title: "Conditional De-Identification of 3D Magnetic Resonance Images"
+  id: "der2021conditional"
+  authors: "Lennart Alexander Van der Goten, Tobias Hepp, Zeynep Akata, Kevin Smith"
+#  url: "https://www.bmvc2021-virtualconference.com/assets/papers/"
+  url: "https://arxiv.org/abs/2110.09927"
+  venue: "The British Machine Vision Conference (BMVC) 2021"
+#  code:
+
+- title: "External Evaluation of 3 Commercial Artificial Intelligence Algorithms for Independent Assessment of Screening Mammograms"
+  id: "salim2020external"
+  authors: "Mattie Salim, Erik Wåhlin, Karin Dembrower, Edward Azavedo, Theodoros Foukakis, Yue Liu, Kevin Smith, Marting Eklund, Fredrik Strand"
+  url: "https://jamanetwork.com/journals/jamaoncology/article-abstract/2769894"
+  venue: "JAMA Oncology 2020"
+#  code: ""
+
+
+- title: "Effect of artificial intelligence-based triaging of breast cancer screening mammograms on cancer detection and radiologist workload: a retrospective simulation study"
+  id: "dembrower2020effect"
+  authors: "Karin Dembrower, Erik Wåhlin, Yue Liu, Mattie Salim, Kevin Smith, Peter Lindholm, Martin Eklund, Fredrik Strand"
+  url: "https://www.sciencedirect.com/science/article/pii/S2589750020301850"
+  venue: "The Lancet Digital Health 2020"
+#  code: ""
+
+
+- title: "Decoupling Inherent Risk and Early Cancer Signs in Image-based Breast Cancer Risk Models"
+  authors: "Yue Liu, Hossein Azizpour, Fredrik Strand, Kevin Smith"
+  venue: "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020"
+  url: "https://link.springer.com/chapter/10.1007/978-3-030-59725-2_23"
+  code: "https://github.com/yueliukth/decoupling_breast_cancer_risk"
+  id: "liu2020decoupling"
+
+
+- title: "Adding Seemingly Uninformative Labels Helps in Low Data Regimes"
+  authors: "Christos Matsoukas, Albert Bou I Hernandez, Yue Liu, Karin Dembrower, Gisele Miranda, Emir Konuk, Johan Fredin Haslum, Athanasios Zouzos, Peter Lindholm, Fredrik Strand, Kevin Smith"
+  venue: "International Conference on Machine Learning (ICML) 2020"
+  url: "https://arxiv.org/abs/2008.00807"
+  code: "https://github.com/ChrisMats/seemingly_uninformative_labels"
+  id: "matsoukas2020adding"
+
+
+- title: "nucleAIzer: A Parameter-free Deep Learning Framework for Nucleus Segmentation Using Image Style Transfer"
+  authors: "Reka Hollandi, Abel Szkalisity, Timea Toth, Ervin Tasnadi, Csaba Molnar, Botond Mathe, Istvan Grexa, Jozsef Molnar, Arpad Balind, Mate Gorbe, Maria Kovacs, Ede Migh, Allen Goodman, Tamas Balassa, Krisztian Koos, Wenyu Wang, Norbert Bara, Ferenc Kovacs, Lassi Paavolainen, Tivadar Danka, Andras Kriston, Anne Carpenter, Kevin Smith, Peter Horvath"
+  venue: "Cell Systems 2020"
+  url: "https://www.sciencedirect.com/science/article/pii/S2405471220301174"
+  code: "https://github.com/spreka/biomagdsb"
+  id: "hollandi2020nucleaizer"
+#
+#
+- title: "Comparison of a deep learning risk score and standard mammographic density score for breast cancer risk prediction"
+  authors: "Karin Dembrower, Yue Liu, Hossein Azizpour, Martin Eklund, Kevin Smith, Peter Lindholm, Fredrik Strand"
+  venue: "Radiology 2020"
+  url: "https://pubs.rsna.org/doi/full/10.1148/radiol.2019190872"
+  code: "https://github.com/yueliukth/mammoai_risk_prediction"
+  id: "dembrower2020comparison"
+
+- title: "An empirical study of the relation between network architecture and complexity"
+  authors: "Emir Konuk, Kevin Smith"
+  venue: "International Conference on Computer Vision (ICCV) Preregistration Workshop 2019"
+  url: "https://arxiv.org/abs/1911.04120"
+#  code: ""
+  id: "konuk2019empirical"
+
+- title: "A role for the VPS retromer in Brucella intracellular replication revealed by genomewide siRNA screening"
+  authors: "Alain Casanova, Shyan Huey Low, Maxime Québatte, Jaroslaw Sedzicki, Therese Tschon, Maren Ketterer, Kevin Smith, Mario Emmenlauer, Houchaima Ben-Tekaya, Christoph Dehioa"
+  venue: "mSphere 2019"
+  url: "https://journals.asm.org/doi/full/10.1128/mSphere.00380-19"
+#  code: ""
+  id: "casanova2019role"
+
+- title: "Deep learning is combined with massive-scale citizen science to improve large-scale image classification"
+  authors: "Devin P Sullivan, Casper F Winsnes, Lovisa Åkesson, Martin Hjelmare, Mikaela Wiking, Rutger Schutten, Linzi Campbell, Hjalti Leifsson, Scott Rhodes, Andie Nordgren, Kevin Smith, Bernard Revaz, Bergur Finnbogason, Attila Szantner, Emma Lundberg"
+  venue: "Nature biotechnology 2018"
+  url: "https://www.nature.com/articles/nbt.4225"
+#  code: ""
+  id: "sullivan2018deep"
+
+
+- title: "Phenotypic image analysis software tools for exploring and understanding big image data from cell-based assays"
+  authors: "Kevin Smith, Filippo Piccinini, Tamas Balassa, Krisztian Koos, Tivadar Danka, Hossein Azizpour, Peter Horvath"
+  venue: "Cell systems 2018"
+  url: "https://www.sciencedirect.com/science/article/pii/S2405471218302412"
+#  code: ""
+  id: "smith2018phenotypic"
+
+
+- title: "Intelligent image-based in situ single-cell isolation"
+  authors: "Csilla Brasko, Kevin Smith, Csaba Molnar, Nora Farago, Lili Hegedus, Arpad Balind, Tamas Balassa, Abel Szkalisity, Farkas Sukosd, Katalin Kocsis, Balazs Balint, Lassi Paavolainen, Marton Z Enyedi, Istvan Nagy, Laszlo G Puskas, Lajos Haracska, Gabor Tamas, Peter Horvath"
+  venue: "Nature communications 2018"
+  url: "https://www.nature.com/articles/s41467-017-02628-4"
+#  code: ""
+  id: "brasko2018intelligent"
+
+
+- title: "Bayesian Uncertainty Estimation for Batch Normalized Deep Networks"
+  authors: "Mattias Teye, Hossein Azizpour, Kevin Smith"
+  venue: "International Conference on Machine Learning (ICML) 2018"
+  url: "https://arxiv.org/abs/1802.06455"
+  code: "https://github.com/icml-mcbn/mcbn"
+  id: "teye2018bayesian"
+
+
+- title: "Digital image analysis in breast pathology – from image processing techniques to artificial intelligence"
+  authors: "Stephanie Robertson, Hossein Azizpour, Kevin Smith, Johan Hartman"
+  venue: "Translational Research 2018"
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S1931524417302955"
+#  code: ""
+  id: "robertson2018digital"
+
+- title: "Advanced cell classifier: user-friendly machine-learning-based software for discovering phenotypes in high-content imaging data"
+  authors: "Filippo Piccinini, Tamas Balassa, Abel Szkalisity, Csaba Molnar, Lassi Paavolainen, Kaisa Kujala, Krisztina Buzas, Marie Sarazova, Vilja Pietiainen, Ulrike Kutay, Kevin Smith, Peter Horvath"
+  venue: "Cell systems 2017"
+  url: "https://www.sciencedirect.com/science/article/pii/S2405471217302272"
+  id: "piccinini2017advanced"
+  #  code: ""
+
+- title: "The Preimage of Rectifier Network Activities"
+  authors: "Stefan Carlsson, Hossein Azizpour, Ali Razavian, Josephine Sullivan, Kevin Smith"
+  venue: "International Conference on Learning Representations (ICLR) 2017 Workshop"
+  url: "https://openreview.net/forum?id=HJcLcw9xg"
+#  code: ""
+  id: "carlsson2016preimage"
+
+
+- title: "Multi-label prediction of subcellular localization in confocal images using deep neural networks"  # this paper has no pdf!
+  authors: "Casper Winsnes, Devin Sullivan, Kevin Smith, Emma Lundberg"
+  venue: "Molecular Biology of the Cell 2016"
+  url: "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1087739"
+#  code: ""
+  id: "winsnes2016multi"
+
+
+- title: "Computer vision profiling of neurite outgrowth dynamics reveals spatiotemporal modularity of Rho GTPase signaling"
+  authors: "Ludovico Fusco, Riwal Lefort, Kevin Smith, Fethallah Benmansour, German Gonzalez, Caterina Barillari, Bernd Rinn, Francois Fleuret, Pascal Fua, Olivier Pertz"
+  venue: "Journal of Cell Biology 2016"
+  url: "https://rupress.org/jcb/article/212/1/91/38426/Computer-vision-profiling-of-neurite-outgrowth"
+#  code: ""
+  id: "fusco2016computer"
+
+
+- title: "Learning structured models for segmentation of 2-D and 3-D imagery"
+  authors: "Aurélien Lucchi, Pablo Márquez-Neila, Carlos Becker, Yunpeng Li, Kevin Smith, Graham Knott, Pascal Fua"
+  venue: "IEEE Transactions on Medical Imaging 2015"
+  url: "https://ieeexplore.ieee.org/abstract/document/6967781"
+  id: "lucchi2014learning"
+
+
+- title: "CIDRE: an illumination-correction method for optical microscopy"
+  authors: "Kevin Smith, Yunpeng Li, Filippo Piccinini, Gabor Csucs, Csaba Balazs, Alessandro Bevilacqua, Peter Horvath"
+  venue: "Nature Methods 2015"
+  url: "https://www.nature.com/articles/nmeth.3323"
+  id: "smith2015cidre"
+
