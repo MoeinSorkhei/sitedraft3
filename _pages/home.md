@@ -9,8 +9,13 @@ permalink: /
 We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se/en). We are located at [Science for Life Laboratory](https://www.scilifelab.se/), in the beautiful city of Stockholm. Our goal is to develop better machine learning methods with a specific focus on their applications to medical images.
 
 <br>
+<div class="container-fluid text-center">
 <img src="images/homepic/slider/Moein_SciLifeLab.jpg" alt="SciLifeLab" width="450"/>
-<br><br>
+<div class="row">
+</div>
+</div>
+<br>
+<!-- <br><br> -->
 
 The problems we try to solve lie in the intersection of machine learning, computer vision, and medical image analysis. Some examples include AI-based mamography image analysis, domain adaptation for MRI images, transfer learning, and generalization. For a more detailed description of the research areas, please see our [Research](research) page!
 
