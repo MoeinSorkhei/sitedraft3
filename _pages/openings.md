@@ -7,4 +7,11 @@ permalink: /vacancies
 ---
 
 # Open positions
-Open positions will be here!
+
+Students enrolled at KTH interested in working on their MSc thesis are invited to contact us! Possible subjects for the MSc thesis with our research group include:
+
+- Analysis of medical imaging data (diagnostic classification, segmentation, etc)
+- Inverse problems such as denoising or super resolution in microscopy data
+- Outlier detection in biomedical data
+- Risk prediction
+

@@ -13,7 +13,7 @@ We are interested to solve problems that lie in the intersection of machine lear
 The research areas in our group include the following:
 
 - **deep learning for breast cancer risk assessment and prediction**
-    
+    A crucial application of deep learning models in medical image analysis is their use in analysis of mammographic images. In our group, We utilize these models to solve problems such as breast cancer risk prediction and its relation to breast cancer.
     .....
     
     .....
@@ -21,7 +21,7 @@ The research areas in our group include the following:
     .....
     
 - **Transferrable deep learning for medical images**
-    
+    Transfer learning of deep neural networks is an exciting field in deep learning with the goal of reusing the knowledge learned by a network in one domain in another domain. This has numerous applications in medical image analysis, especially due to lack of data and the cost of acquiring annotations from medical experts. In this regard, we try to investigate and develop models that can effectively benefit from this technique to solve medical image analysis problems more successfully.
     .....
     
     .....
@@ -29,7 +29,8 @@ The research areas in our group include the following:
     .....
     
 - **Domain adaptation and privacy-preserving machine learning for medical images**
-    
+    Privacy concerns are of very important when dealing with medical data, since they can potentially leak information about the subjects in a dataset. Moreover, if trained carelessly, machine learning methods can also leak informaiton about the subjects of the dataset they were trained on. 
+    Therefore, machine learning methdos need to be developed reliablly to ensure the privacy of the subjects in medical datasets.
     .....
     
     .....
@@ -51,15 +52,8 @@ The research areas in our group include the following:
     .....
     
     .....
-    
 
----
-
-Students enrolled at KTH interested in working on their MSc thesis are invited to contact us. Possible subjects for the MSc thesis with my research group include:
-
-- Analysis of medical imaging data (diagnostic classification, segmentation, etc)
-- Inverse problems such as denoising or super resolution in microscopy data
-- Outlier detection in biomedical data
-- Risk prediction
+- **Ovarian project**
+- **Generalization project**
 
 </div>
