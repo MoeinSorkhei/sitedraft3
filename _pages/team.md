@@ -24,6 +24,10 @@ permalink: /team/
   <h4><a href="{{ member.webpage }}"> {{ member.name }}</a></h4>
   {% endif %}
   <i>{{ member.info }}</i> 
+  {% if member.number_educ != 0 %}
+  <h5>Research interests:</h5>
+  {% endif %}
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}

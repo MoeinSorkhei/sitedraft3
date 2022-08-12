@@ -1,63 +1,19 @@
 - name: "Kevin Smith"
   webpage: https://www.kth.se/profile/ksmith
-  photo: Kevin.jpg
+  photo: Kevin_cartoon.jpeg
   info: Associate Professor
   email: ksmith@kth.se
   number_educ: 3
-  education1: Postdoc at ETH
-  education2: Postdoc at EPFL
-  education3: PhD at EPFL
+  education1: Computer vision
+  education2: Machine learning
+  education3: Biomedical image analysis
   education4:
 
-- name: "Chrsitos Matsoukas"
-  webpage: https://www.kth.se/profile/matsou
-  photo: Christos.png
-  info: PhD student
-  email: matsou@kth.se
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: "Moein Sorkhei"
-  webpage: https://www.kth.se/profile/sorkhei
-  photo: Moein.png
-  info: PhD student
-  email: sorkhei@kth.se
-  number_educ: 2
-  education1: MSc at KTH
-  education2: BSc at Univ. of Tehran
-  education3:
-  education4:
-
-- name: "Johan Fredin Haslum"
-  webpage: https://www.kth.se/profile/jhaslum
-  photo: Johan.jpeg
-  info: PhD student
-  email: haslum@kth.se
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: "Lennart Van der Goten"
-  webpage: https://www.kth.se/profile/lavdg/?l=en
-  photo: Lennart.jpg
-  info: PhD student
-  email: lavdg@kth.se
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: "Yue Liu"
-  webpage: https://www.kth.se/profile/yue3?l=en
-  photo: Yue.jpg
-  info: PhD student
-  email: yue3@kth.se
+- name: "Gisele Miranda"
+  webpage: https://www.kth.se/profile/gmirand
+  photo: Gisele.png
+  info: Bioimage analyst
+  email: gmirand@kth.se
   number_educ: 0
   education1:
   education2:
@@ -69,39 +25,83 @@
   photo: Emir.jpg
   info: PhD student
   email: ekonuk@kth.se
-  number_educ: 0
-  education1:
-  education2:
+  number_educ: 2
+  education1: Deep learning generalization
+  education2: Deep generative models
   education3:
   education4:
 
-- name: "Jim Guo"
+- name: "Yue Liu"
+  webpage: https://www.kth.se/profile/yue3?l=en
+  photo: Yue.jpg
+  info: PhD student
+  email: yue3@kth.se
+  number_educ: 3
+  education1: Deep learning
+  education2: Machine learning 
+  education3: Biomedical image analysis
+  education4:
+
+- name: "Chrsitos Matsoukas"
+  webpage: https://www.kth.se/profile/matsou
+  photo: Christos.png
+  info: PhD student
+  email: matsou@kth.se
+  number_educ: 3
+  education1: Transfer learning
+  education2: Deep learning in low-data regime
+  education3: Deep learning in histopathology
+  education4:
+
+- name: "Johan Fredin Haslum"
+  webpage: https://www.kth.se/profile/jhaslum
+  photo: Johan.jpeg
+  info: PhD student
+  email: haslum@kth.se
+  number_educ: 3
+  education1: Domain generalization
+  education2: Transfer learning
+  education3: Deep learning for drug discovery
+  education4:
+
+- name: "Lennart Van der Goten"
+  webpage: https://www.kth.se/profile/lavdg/?l=en
+  photo: Lennart.jpg
+  info: PhD student
+  email: lavdg@kth.se
+  number_educ: 3
+  education1: 3D medical image analysis
+  education2: Privacy preserving ML
+  education3: 3D artefact removal
+  education4:
+
+- name: "Filip Christiansen"
   webpage: ""
+  photo: Filip.png
+  info: Master student
+  email: "filipchr@kth.se"
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: "Moein Sorkhei"
+  webpage: https://www.kth.se/profile/sorkhei
+  photo: Moein_cartoon.jpg
+  info: PhD student
+  email: sorkhei@kth.se
+  number_educ: 2
+  education1: Transfer learning
+  education2: Understanding deep networks
+  education3:
+  education4:
+
+- name: "Robert Welch"
+  webpage: https://www.kth.se/profile/rwe2?l=en
   photo: Avatar.png
-  info: PhD student
-  email: "yu137226@gmail.com"
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: "Joana Palés Huix"
-  webpage: https://staff.ki.se/people/joana-pales-huix
-  photo: Joana.png
-  info: PhD student
-  email: "joanaph@kth.se"
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
-- name: "Gisele Miranda"
-  webpage: https://www.kth.se/profile/gmirand
-  photo: Gisele.png
-  info: Bioimage analyst
-  email: gmirand@kth.se
+  info: Research engineer
+  email: "rwe2@kth.se"
   number_educ: 0
   education1:
   education2:
@@ -119,22 +119,22 @@
   education3:
   education4:
 
-- name: "Robert Welch"
-  webpage: https://www.kth.se/profile/rwe2?l=en
-  photo: Avatar.png
-  info: Research engineer
-  email: "rwe2@kth.se"
-  number_educ: 0
-  education1:
+- name: "Joana Palés Huix"
+  webpage: https://staff.ki.se/people/joana-pales-huix
+  photo: Joana.png
+  info: PhD student
+  email: "joanaph@kth.se"
+  number_educ: 1
+  education1: Deep learning in histopathology
   education2:
   education3:
   education4:
 
-- name: "Filip Christiansen"
+- name: "Jim Guo"
   webpage: ""
-  photo: Filip.png
-  info: Master student
-  email: "filipchr@kth.se"
+  photo: Avatar.png
+  info: PhD student
+  email: "yu137226@gmail.com"
   number_educ: 0
   education1:
   education2:
