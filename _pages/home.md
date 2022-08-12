@@ -15,15 +15,16 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 </div>
 </div>
 <br> -->
-<!-- <br> -->
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+<br>
+
+<div markdown="0" id="carousel" class="carousel slide carousel-center" data-ride="carousel" data-interval="4000" data-pause="hover" >
 	<!-- Menu -->
 	<ol class="carousel-indicators">
 		<li data-target="#carousel" data-slide-to="0" class="active"></li>
 		<li data-target="#carousel" data-slide-to="1"></li>
 		<li data-target="#carousel" data-slide-to="2"></li>
-		<li data-target="#carousel" data-slide-to="3"></li>
+		<!-- <li data-target="#carousel" data-slide-to="3"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="4"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="5"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="6"></li> -->
@@ -47,6 +48,9 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/complexity.png" alt="Slide 5" />
 		</div>        -->
 		<!-- <div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/complexity.png" alt="Slide 5" />
+		</div>        -->
+		<!-- <div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/transfer.png" alt="Slide 6" />
 		</div> -->
 </div>
@@ -59,7 +63,7 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		<span class="sr-only">Next</span>
 	</a>
 </div>
-<!-- <br> -->
+<br>
 
 The problems we try to solve lie in the intersection of machine learning, computer vision, and medical image analysis. Some examples include AI-based mamography image analysis, domain adaptation for MRI images, transfer learning, and generalization. For a more detailed description of the research areas, please see our [Research](research) page!
 
