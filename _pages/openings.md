@@ -15,3 +15,4 @@ Students enrolled at KTH interested in working on their MSc thesis are invited t
 - Outlier detection in biomedical data
 - Risk prediction
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/SciLifeLab_foggy.jpg" width="90%" style="float: center"  />
