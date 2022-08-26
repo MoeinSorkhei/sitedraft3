@@ -24,7 +24,7 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		<li data-target="#carousel" data-slide-to="0" class="active"></li>
 		<li data-target="#carousel" data-slide-to="1"></li>
 		<li data-target="#carousel" data-slide-to="2"></li>
-		<!-- <li data-target="#carousel" data-slide-to="3"></li> -->
+		<li data-target="#carousel" data-slide-to="3"></li>
 		<!-- <li data-target="#carousel" data-slide-to="4"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="5"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="6"></li> -->
@@ -33,20 +33,20 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 <!-- Items -->
 <div class="carousel-inner" markdown="0">
 		<div class="item active">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/Moein_SciLifeLab.jpg" alt="Slide 1"/>
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/Moein_SciLifeLab.png" alt="Slide 1"/>
 		</div>
 		<div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/csaw_s.png" alt="Slide 2" />
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/csaw_s.png" alt="Slide 2" />
 		</div>
 		<!-- <div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/csaw_m.png" alt="Slide 3" />
 		</div> -->
 		<div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/deidentified.png" alt="Slide 4" />
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/deidentified.png" alt="Slide 4" />
 		</div>
-		<!-- <div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/complexity.png" alt="Slide 5" />
-		</div>        -->
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/trans_vs_cnn_saliency.png" alt="Slide 5" />
+		</div>       
 		<!-- <div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/complexity.png" alt="Slide 5" />
 		</div>        -->
