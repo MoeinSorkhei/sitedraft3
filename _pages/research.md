@@ -67,7 +67,21 @@ The research areas in our group include the following:
 </div>
     
 
-<!-- - **Diverse and controllable generative models**
-- **Deep Learning for drug discovery, using diverse and sparse data sources** -->
+<div class="row">
+<div class="col-sm-12">
+- **Diverse and controllable generative models for domain generalization**
+An interesting line of research in the area of generative modeling is the ability to interpret and control the latent space modeled by deep networks. This, in theory, enables us to control data generation according to our desired properties of data points. In this project, the goal is to manipulate and control different parts of the latent space learned by the Glow model through proper conditioning in order to be able to model different properties of the generated image (e.g. a digit class, its rotation degree etc.) in different parts of the latent space.
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-sm-12">
+- **Application of small small transformer models for microscopic cell image analysis**
+Since the first successful application of Transformer models in computer vision, the community has been utilizing them in a vairty of applications while improving the efficiency and performance. In this project, we are interested in applying efficient, lightweight transformer models for microscopic image analysis. These models should be able to make reliable predictions based only a subset of tokens related to the most important regions of the image.
+
+</div>
+</div>
+
 
 </div>
