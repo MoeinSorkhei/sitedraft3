@@ -1,3 +1,9 @@
+- title: "PatchDropout: Economizing Vision Transformers Using Patch Dropout"
+  id: "liu2022patchdropout"
+  authors: "Yue Liu, Christos Matsoukas, Fredrik Strand, Hossein Azizpour, Kevin Smith"
+  url: "https://arxiv.org/abs/2208.07220"
+  venue: arXiv
+
 - title: "What Makes Transfer Learning Work For Medical Images: Feature Reuse & Other Factors"
   id: "matsoukas2022makes"
   authors: "Christos Matsoukas, Johan Fredin Haslum, Moein Sorkhei, Magnus Soderberg, Kevin Smith"
