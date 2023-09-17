@@ -2,14 +2,32 @@
   id: "liu2022patchdropout"
   authors: "Yue Liu, Christos Matsoukas, Fredrik Strand, Hossein Azizpour, Kevin Smith"
   url: "https://arxiv.org/abs/2208.07220"
-  venue: arXiv
+  venue: "Winter Conference on Applications of Computer Vision (WACV) 2023"
+  code: "https://github.com/yueliukth/PatchDropout"
+
+
+- title: "Metadata-guided Consistency Learning for High Content Images"
+  id: "haslum2022metadata"
+  authors: "Johan Fredin Haslum, Christos Matsoukas, Karl-Johan Leuchowius, Erik Müllers, Kevin Smith"
+  url: "https://arxiv.org/abs/2212.11595"
+  venue: "Medical Imaging with Deep Learning (MIDL) 2023"
+  code: "https://github.com/cfredinh/CDCL"
+
+
+- title: "Wide Range MRI Artifact Removal with Transformers"
+  id: "der2022wide"
+  authors: "Lennart Alexander Van der Goten, Kevin Smith"
+  url: "https://arxiv.org/abs/2210.07976"
+  venue: "British Machine Vision Conference (BMVC) 2022"
+
 
 - title: "What Makes Transfer Learning Work For Medical Images: Feature Reuse & Other Factors"
   id: "matsoukas2022makes"
   authors: "Christos Matsoukas, Johan Fredin Haslum, Moein Sorkhei, Magnus Soderberg, Kevin Smith"
   url: "https://arxiv.org/abs/2203.01825"
-  venue: "Computer Vision and Pattern Recognition (CVPR 2022)"
-#  code: ""
+  venue: "Computer Vision and Pattern Recognition (CVPR) 2022"
+  code: "https://github.com/ChrisMats/feature-reuse"
+
 
 - title: "Is it Time to Replace CNNs with Transformers for Medical Images?"
   id: "matsoukas2021time"
@@ -27,7 +45,7 @@
   id: "sorkhei2021csaw"
   authors: "Moein Sorkhei* , Yue Liu*, Hossein Azizpour, Edward Azavedo, Karin Dembrower, Dimitra Ntoula, Athanasios Zouzos, Fredrik Strand, Kevin Smith"
   url: "https://openreview.net/forum?id=nlJ1rV6G_Iq"
-  venue:  "Neural Information Processing Systems (NeurIPS 2021) Track on Datasets and Benchmarks"
+  venue:  "Neural Information Processing Systems Track on Datasets and Benchmarks (NeurIPS) 2021"
   code: "https://github.com/yueliukth/CSAW-M"
   #  link:
   #  image: "masking_levels.png"
@@ -65,6 +83,7 @@
   #  news1: ""
   #  news2: ""
 
+
 - title: "Conditional De-Identification of 3D Magnetic Resonance Images"
   id: "der2021conditional"
   authors: "Lennart Alexander Van der Goten, Tobias Hepp, Zeynep Akata, Kevin Smith"
@@ -72,6 +91,7 @@
   url: "https://arxiv.org/abs/2110.09927"
   venue: "The British Machine Vision Conference (BMVC) 2021"
 #  code:
+
 
 - title: "External Evaluation of 3 Commercial Artificial Intelligence Algorithms for Independent Assessment of Screening Mammograms"
   id: "salim2020external"
@@ -120,6 +140,7 @@
   code: "https://github.com/yueliukth/mammoai_risk_prediction"
   id: "dembrower2020comparison"
 
+
 - title: "An empirical study of the relation between network architecture and complexity"
   authors: "Emir Konuk, Kevin Smith"
   venue: "International Conference on Computer Vision (ICCV) Preregistration Workshop 2019"
@@ -127,12 +148,14 @@
 #  code: ""
   id: "konuk2019empirical"
 
+
 - title: "A role for the VPS retromer in Brucella intracellular replication revealed by genomewide siRNA screening"
   authors: "Alain Casanova, Shyan Huey Low, Maxime Québatte, Jaroslaw Sedzicki, Therese Tschon, Maren Ketterer, Kevin Smith, Mario Emmenlauer, Houchaima Ben-Tekaya, Christoph Dehioa"
   venue: "mSphere 2019"
   url: "https://journals.asm.org/doi/full/10.1128/mSphere.00380-19"
 #  code: ""
   id: "casanova2019role"
+
 
 - title: "Deep learning is combined with massive-scale citizen science to improve large-scale image classification"
   authors: "Devin P Sullivan, Casper F Winsnes, Lovisa Åkesson, Martin Hjelmare, Mikaela Wiking, Rutger Schutten, Linzi Campbell, Hjalti Leifsson, Scott Rhodes, Andie Nordgren, Kevin Smith, Bernard Revaz, Bergur Finnbogason, Attila Szantner, Emma Lundberg"
@@ -172,6 +195,7 @@
   url: "https://www.sciencedirect.com/science/article/abs/pii/S1931524417302955"
 #  code: ""
   id: "robertson2018digital"
+
 
 - title: "Advanced cell classifier: user-friendly machine-learning-based software for discovering phenotypes in high-content imaging data"
   authors: "Filippo Piccinini, Tamas Balassa, Abel Szkalisity, Csaba Molnar, Lassi Paavolainen, Kaisa Kujala, Krisztina Buzas, Marie Sarazova, Vilja Pietiainen, Ulrike Kutay, Kevin Smith, Peter Horvath"

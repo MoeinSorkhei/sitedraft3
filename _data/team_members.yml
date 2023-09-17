@@ -141,6 +141,17 @@
   education3:
   education4:
 
+- name: "Lasse Stahnke"
+  webpage: ""
+  photo: Avatar.png
+  info: Research engineer
+  email: "lasse.stahnke@comr.de"
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 - name: "Youssef Taoudi"
   webpage: https://www.kth.se/profile/yousseft
   photo: Avatar.png

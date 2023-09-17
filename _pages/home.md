@@ -26,6 +26,7 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		<li data-target="#carousel" data-slide-to="2"></li>
 		<li data-target="#carousel" data-slide-to="3"></li>
 		<!-- <li data-target="#carousel" data-slide-to="4"></li> -->
+		<!-- <li data-target="#carousel" data-slide-to="4"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="5"></li> -->
 		<!-- <li data-target="#carousel" data-slide-to="6"></li> -->
 	</ol>
@@ -46,7 +47,10 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		</div>
 		<div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/trans_vs_cnn_saliency.png" alt="Slide 5" />
-		</div>       
+		</div>
+		<!-- <div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/mammo.png" alt="Slide mammo" />
+		</div>        -->
 		<!-- <div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/complexity.png" alt="Slide 5" />
 		</div>        -->
