@@ -25,10 +25,8 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		<li data-target="#carousel" data-slide-to="1"></li>
 		<li data-target="#carousel" data-slide-to="2"></li>
 		<li data-target="#carousel" data-slide-to="3"></li>
-		<!-- <li data-target="#carousel" data-slide-to="4"></li> -->
-		<!-- <li data-target="#carousel" data-slide-to="4"></li> -->
-		<!-- <li data-target="#carousel" data-slide-to="5"></li> -->
-		<!-- <li data-target="#carousel" data-slide-to="6"></li> -->
+		<li data-target="#carousel" data-slide-to="4"></li>
+		<li data-target="#carousel" data-slide-to="5"></li>
 	</ol>
 
 <!-- Items -->
@@ -39,24 +37,18 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		<div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/csaw_s.png" alt="Slide 2" />
 		</div>
-		<!-- <div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/csaw_m.png" alt="Slide 3" />
-		</div> -->
 		<div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/deidentified.png" alt="Slide 4" />
 		</div>
 		<div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/trans_vs_cnn_saliency.png" alt="Slide 5" />
 		</div>
-		<!-- <div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/mammo.png" alt="Slide mammo" />
-		</div>        -->
-		<!-- <div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider/complexity.png" alt="Slide 5" />
-		</div>        -->
-		<!-- <div class="item">
-				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_/transfer.png" alt="Slide 6" />
-		</div> -->
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/Patch_1.png" alt="" />
+		</div>       
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/Patch_4.png" alt="" />
+		</div>       
 </div>
 	<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
 		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
