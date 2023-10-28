@@ -27,6 +27,12 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		<li data-target="#carousel" data-slide-to="3"></li>
 		<li data-target="#carousel" data-slide-to="4"></li>
 		<li data-target="#carousel" data-slide-to="5"></li>
+		<li data-target="#carousel" data-slide-to="6"></li>
+		<li data-target="#carousel" data-slide-to="7"></li>
+		<li data-target="#carousel" data-slide-to="8"></li>
+		<li data-target="#carousel" data-slide-to="9"></li>
+		<li data-target="#carousel" data-slide-to="10"></li>
+		<li data-target="#carousel" data-slide-to="11"></li>
 	</ol>
 
 <!-- Items -->
@@ -48,7 +54,25 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 		</div>       
 		<div class="item">
 				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/Patch_4.png" alt="" />
-		</div>       
+		</div>
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/artefact_1.png" alt="" />
+		</div> 
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/csaw_m_1.png" alt="" />
+		</div> 
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/feature_reuse_1.png" alt="" />
+		</div> 
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/meta_guided_1.png" alt="" />
+		</div> 
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/meta_guided_2.png" alt="" />
+		</div> 
+		<div class="item">
+				<img src="{{ site.url }}{{ site.baseurl }}/images/homepic/slider_2/ovarian_1.png" alt="" />
+		</div>    
 </div>
 	<a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
 		<span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
