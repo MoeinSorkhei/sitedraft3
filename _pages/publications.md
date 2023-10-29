@@ -7,7 +7,10 @@ permalink: /publications/
 ---
 
 
-# Publications
+<!-- # Publications -->
+<!-- fas fa-edit   fa fa-newspaper-o -->
+<h1> <i class="fa fa-newspaper-o"></i>&nbsp; Publications</h1>
+<br>
 
 {% for publi in site.data.publist %}
 

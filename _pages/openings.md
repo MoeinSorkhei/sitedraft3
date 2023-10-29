@@ -6,7 +6,10 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+<!-- # Open positions -->
+<!-- fa-calendar-days fa-globe fa-folder-open fa-face-smile -->
+<h1> <i class="fa fa-face-smile"></i>&nbsp; Open Positions</h1>
+<br>
 
 Students enrolled at KTH interested in working on their MSc thesis are invited to contact us! Possible subjects for the MSc thesis with our research group include:
 

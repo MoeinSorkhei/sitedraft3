@@ -6,8 +6,11 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+<!-- # Group Members -->
 <!-- ## Staff -->
+<h1> <i class="fa fa-user-graduate"></i>&nbsp; Group Members</h1>
+<br>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %} 
 {% assign even_odd = number_printed | modulo: 2 %}

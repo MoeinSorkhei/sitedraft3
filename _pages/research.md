@@ -6,7 +6,11 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+<!-- # Research -->
+<!-- alternatives: fa-vial fa-microscope fa-flask fa-atom fa-brain fa-microchip-->
+<h1> <i class="fa fa-microchip"></i>&nbsp; Research</h1>
+<br>
+
 <div class="justify">
 We are interested to solve problems that lie in the intersection of machine learning and image data, specifically medical images. Below we list the main areas of research our group works on. For a full list of publications, please visit the [Publications](../publications) page!
 <!-- Recently, an explosion of digitalized data, groundbreaking advances in the life sciences, and the development of cutting-edge algorithms capable of understanding biomedical data, especially from images, have generated terrific excitement around AI and healthcare. Our research revolves around the challenges arising from applying machine learning to medical images.  -->
