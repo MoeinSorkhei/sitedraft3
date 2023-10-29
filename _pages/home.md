@@ -84,7 +84,8 @@ We are a vibrant group at [KTH Royal Institute of Technology](https://www.kth.se
 	</a>
 </div>
 <br>
-
+<br>
+<br>
 The problems we try to solve lie in the intersection of machine learning, computer vision, and medical image analysis. Some examples include AI-based mamography image analysis, domain adaptation for MRI images, transfer learning, and generalization. For a more detailed description of the research areas, please see our [Research](research) page!
 
 ---
