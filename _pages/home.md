@@ -92,3 +92,4 @@ The problems we try to solve lie in the intersection of machine learning, comput
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KTH_Logotyp_RGB_2013.png" style="width: 90px; margin: 0px 20px 0px 0px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SciLifeLab_Logotype_Green_POS.jpg" style="width: 200px">
 </figure>
+<br>
