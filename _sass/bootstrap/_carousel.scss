@@ -265,6 +265,17 @@
 
   // Move up the indicators
   .carousel-indicators {
-    bottom: 20px;
+    bottom: -40px;
+  }
+  // Make indicators nicer
+  .carousel-indicators li {
+    background-color: #ffffff;
+    border: 1px solid #716f71;
+    border-radius: 50%;
+  }
+  .carousel-indicators .active {
+    background-color: #716f71;
+    border: 1px solid #716f71;
+    border-radius: 50%;
   }
 }
